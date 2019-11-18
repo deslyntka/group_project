@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
+	background:url(https://github.com/deslyntka/group_project/blob/master/SUSTAINABILITEA.png?raw=true) center no-repeat;
 	padding:280px 0;
 }
 .logo{
@@ -145,7 +145,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:rgb(203, 108, 95);
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -178,7 +178,7 @@ color: #fff;
 	border-bottom:1px solid #dddddd;
 	box-shadow:0 4px 5px -3px #ececec;
 	position:relative;
-	background:#fff;
+	background:rgb(255,237,227);
 }
 .main-nav{
 	text-align:center;
@@ -216,14 +216,7 @@ color: #fff;
 	padding:90px 0 110px;
 }
 
-.hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/deslyntka/group_project/blob/master/Copy%20of%20SUSTAINABILITEA.png?raw=true");
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
+
 /* Services
 ---------------------------------*/
 
@@ -249,7 +242,7 @@ color: #fff;
   text-align: justify;
 }
 .main-section.alabaster{
-	background:#fafafa;
+	background:rgb(254, 242, 239);
 }
 
 /* Featured Work
