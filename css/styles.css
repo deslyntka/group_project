@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+    padding-top: 0px;
+    padding-bottom: 25px;
+}
+
+body {
+  background-color: rgb(255, 225, 209);
+}
+
+h2 {
+  color: rgb(203, 108, 95)
+}
